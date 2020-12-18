@@ -1,0 +1,4 @@
+1) create database stripe_task
+2) Run migration -> php artisan migrate
+3) Run db seed -> php artisan db:seed --class=ProductSeeder
+4) Serve the project
